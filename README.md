@@ -15,7 +15,8 @@ This repository hosts a Tableau dashboard analyzing Netflix's content trends and
 ---
 
 
-
 ## Usage
+---
 1)Open the Tableau workbook file (NETFLIX.twbx) using Tableau Desktop or Tableau Public.
 2)Explore the dashboard interactively by clicking on different visual elements and applying filters.
+---
