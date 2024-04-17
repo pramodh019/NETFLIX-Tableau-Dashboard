@@ -2,7 +2,7 @@
 
 ## Overview
 This repository hosts a Tableau dashboard analyzing Netflix's content trends and performance metrics. The dashboard provides interactive visualizations to explore various aspects of Netflix's content library, including top-rated shows, audience demographics, and regional preferences.
-
+ 
 ## Features
 1)Interactive Visualizations: Dive into the data with interactive charts and graphs.
 2)Data Exploration: Explore Netflix's content trends and performance metrics.
